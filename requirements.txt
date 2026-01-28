@@ -1,0 +1,2 @@
+# Phone Book Application Requirements
+# No external libraries needed - built with Python standard libraries
